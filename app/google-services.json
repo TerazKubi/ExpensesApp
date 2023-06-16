@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "673823288541",
+    "project_id": "expenses-2b7f8",
+    "storage_bucket": "expenses-2b7f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673823288541:android:79a23e630aca5bbb83ff34",
+        "android_client_info": {
+          "package_name": "com.put.poznan.expenses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673823288541-r11pb2v001pkamd1egdr5b4vam0k2ogi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwPD5EACi1WheDorWkSfaD9I2Y_IA61v8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673823288541-r11pb2v001pkamd1egdr5b4vam0k2ogi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
